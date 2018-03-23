@@ -1,0 +1,12 @@
+pandas
+joblib
+pyyaml
+netaddr
+tldextract
+sklearn
+scipy
+matplotlib
+ipwhois
+whois
+dnspython
+jupyter
